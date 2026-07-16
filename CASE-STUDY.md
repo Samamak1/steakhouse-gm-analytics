@@ -2,8 +2,8 @@
 
 **An upscale steakhouse inside a major casino property - July 2024**
 
-Written while pursuing the General Manager position, from the floor, on the property's
-June-2024 statements. All confidential figures are replaced with `$-` placeholders or
+Developed during my progression from Operations Manager to Assistant General Manager
+and Acting General Manager, using the property's June-2024 statements. All confidential figures are replaced with `$-` placeholders or
 **clearly-labeled illustrative numbers**; the models and program designs are reproduced
 as built.
 

@@ -9,7 +9,7 @@ This repository preserves the method and program design without publishing the e
 | Field | Detail |
 |---|---|
 | Business challenge | A high-cost steakhouse operation needed a credible path from operating loss toward profitability without relying on additional fixed-cost capacity. |
-| My role | Operating leader and General Manager candidate; author of the business case and associated menu and training program designs. |
+| My role | Operations Manager -> Assistant General Manager -> Acting General Manager; author of the business case and associated menu and training program designs. |
 | Mandate | Independently diagnose the profitability gap and translate the analysis into actions the floor team could execute. |
 | Source period | June 2024 operating statements; analysis and program materials written in July 2024. |
 | Stakeholders considered | Property leadership, finance, culinary, beverage, servers, hosts, and restaurant managers. |
@@ -195,7 +195,7 @@ The underlying financial statements belong to the employer and are not reproduce
 
 ## AI assistance
 
-The public record does not establish the scope of AI assistance, if any, in the original 2024 work. This replacement therefore makes no unsupported claim. Any AI used later for formatting, editing, or sanitizing the public presentation should be disclosed before publication; it did not originate confidential source data or operating outcomes.
+The public record does not establish the scope of AI assistance, if any, in the original 2024 work, so this case makes no unsupported claim about it. AI assisted with later editing and confidentiality review of the public presentation; it did not originate confidential source data, the operating analysis, or claimed outcomes.
 
 ## Confidentiality and provenance
 
