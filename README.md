@@ -1,4 +1,4 @@
-# Casino Steakhouse — Beverage Profitability Business Case
+# Casino Steakhouse - Beverage Profitability Business Case
 
 In mid-2024, while working at an upscale steakhouse inside a major casino property and
 pursuing the General Manager role, I built an unsolicited business case for the property's
@@ -11,9 +11,9 @@ This repo is the **redacted** version of that work.
 
 The original analysis was built on the steakhouse's confidential June-2024 financial
 statements. None of the source PDFs are included here, and no real revenue, cost, margin,
-or cover figures are reproduced. What is preserved — because it is mine — is the
+or cover figures are reproduced. What is preserved - because it is mine - is the
 **method**: the models, the formulas, the program designs, and the reasoning. Where
-numbers appear they are either `$—` placeholders or clearly-labeled illustrative examples.
+numbers appear they are either `$-` placeholders or clearly-labeled illustrative examples.
 
 ## What's here
 
@@ -24,7 +24,7 @@ numbers appear they are either `$—` placeholders or clearly-labeled illustrati
 ## The argument, in one paragraph
 
 A steakhouse's beverage program carries the house. Alcohol margins run far above food
-margins, so every dollar of revenue shifted from food to beverage — or added as beverage —
+margins, so every dollar of revenue shifted from food to beverage - or added as beverage -
 falls to the bottom line at several times the rate. The analysis quantified the gap
 (category-level profit margins), located the shortfall (beverage share of revenue well
 below full-service steakhouse benchmarks), modeled the fix (one additional glass of wine
