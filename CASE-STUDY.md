@@ -38,9 +38,9 @@ share_category = revenue_category / revenue_total
 share_beverage = (rev_liquor + rev_wine + rev_beer) / revenue_total
 ```
 
-Finding: total beverage share sat in the mid-teens as a percentage of revenue -
-materially below the 25-30% typical of high-performing full-service steakhouses. Wine
-and liquor were near-equal contributors; beer was minor. That gap *is* the opportunity.
+Finding: total beverage share sat in the mid-teens as a percentage of revenue. Wine
+and liquor were near-equal contributors, while beer was minor. The analysis used this
+category mix as the baseline for testing beverage-attachment opportunities.
 
 ### Model 3: Average guest spend, two ways
 

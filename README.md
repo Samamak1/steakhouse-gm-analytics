@@ -20,7 +20,7 @@ The model followed five questions:
 4. What would one additional glass of wine per guest contribute under stated assumptions?
 5. How did casino comps affect the view of cash revenue and service cost?
 
-The objective was not a larger spreadsheet. It was a chain from financial signal to behavior the team could learn, practice, and measure.
+The work connected each financial signal to a behavior the team could learn, practice, and measure.
 
 ## The models
 
@@ -58,7 +58,7 @@ The six-part server program combined product education, sales language, written 
 
 The four-week host program addressed greetings, reservations, wait management, service recovery, table rotation, head-count balancing, cross-team communication, observation, and sign-off.
 
-The common mechanism was simple: define the standard, rehearse it, assess it, and reinforce it.
+Each program defined the standard, gave the team a way to rehearse it, assessed execution, and reinforced the expected behavior through manager routines.
 
 ## What the repository establishes
 
